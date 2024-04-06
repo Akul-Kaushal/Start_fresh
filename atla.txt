@@ -1,0 +1,2 @@
+Random text to finally understand the concept of master branch on local machine and the main branch on remote location
+
